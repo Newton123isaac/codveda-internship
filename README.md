@@ -90,9 +90,7 @@ Attempt 3/7 - Your guess: 37
 ## Author
 **Isaac** — Python Development Intern at Codveda Technology
 
-## Connect
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
+
 
 ---
 
