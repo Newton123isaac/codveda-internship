@@ -84,7 +84,7 @@ Attempt 3/7 - Your guess: 37
 ---
 
 ## Technologies Used
-- Python 3.x
+- Python 3
 - Built-in modules: `random`
 
 ## Author
@@ -93,5 +93,17 @@ Attempt 3/7 - Your guess: 37
 
 
 ---
+## TASK 3: WORD COUNTER
+## DESCRIPTION
+a python program that reads a file and counts:
+- total words
+- total characters
+- total lines 
+
+## FEATURES 
+- File handling 
+- Exception handling
+- Clean code structure 
+
 
 *#CodvedaJourney #CodvedaExperience #FutureWithCodveda*
